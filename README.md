@@ -46,6 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot (13)](https://github.com/user-attachments/assets/6e300ad7-3637-43b4-877e-036f3437b821)
 
 ### Name:
 ### Register Number:
